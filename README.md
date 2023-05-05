@@ -26,17 +26,17 @@
   <img src="https://images.credly.com/size/680x680/images/ae9a98b9-240b-47b1-9105-acd4f019ed1a/CEH_Badge.png" alt="Certified Ethical Hacker" width="100"/> 
 </div>
 
-### :man_scientist: About Me:
+### About Me:
 
 - I am Test Architect working at IBM
 - I have 20+ years of experience in development and testing software products
 - I have worked on products in Security (identity and access management), Application Performance Monitoring and Cloud domains
 - I aim to ensure there is _Right Testing, Sufficient Test coverage & Efficient automation_ in the Development process
-- I like automating stuff with Python mainly, and also know other lesser languages :nerd_face:
+- I like automating stuff with Python mainly
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
